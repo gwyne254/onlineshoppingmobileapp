@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782757591399",
+    "project_id": "online-shoppine-mobile-app",
+    "storage_bucket": "online-shoppine-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782757591399:android:c3498739e5541d3987d7c2",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppingmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782757591399-2ta813grv0qjph5230mhg922u9kdois5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3g4iw875S6n3uY2H94_mFnsdGtfpSfZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782757591399-2ta813grv0qjph5230mhg922u9kdois5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
